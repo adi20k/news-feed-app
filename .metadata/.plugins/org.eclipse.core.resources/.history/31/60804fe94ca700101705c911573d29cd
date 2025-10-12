@@ -1,0 +1,11 @@
+package com.news.feed.ak.service;
+
+import org.springframework.stereotype.Service;
+
+import lombok.RequiredArgsConstructor;
+
+@Service
+@RequiredArgsConstructor
+public class TweetService {
+
+}

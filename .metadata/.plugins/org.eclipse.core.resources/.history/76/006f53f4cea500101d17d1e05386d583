@@ -1,0 +1,16 @@
+package com.news.feed.ak.model;
+
+@Document(collection = "users")
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
+public class User {
+@Id
+private String id;
+private String username;
+private String password;
+private String email;
+private Set<String> followers = new HashSet<>();
+private Set<String> following = new HashSet<>();
+}

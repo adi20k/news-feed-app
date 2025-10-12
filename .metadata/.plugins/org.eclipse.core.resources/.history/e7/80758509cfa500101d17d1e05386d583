@@ -1,0 +1,8 @@
+package com.news.feed.ak.dto;
+
+@Data
+public class RegisterUserRequest {
+private String username;
+private String email;
+private String password;
+}

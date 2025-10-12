@@ -1,0 +1,5 @@
+package com.news.feed.ak.config;
+
+public class RedisConfig {
+
+}

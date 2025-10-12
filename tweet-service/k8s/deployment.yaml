@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: tweet-service
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: tweet-service
+  template:
+    metadata:
+      labels:
+        app: tweet-service
+    spec:
+      containers:
+        - name: tweet-service
+          image: your-registry/tweet-service:latest
+          ports:
+            - containerPort: 8081
+          env:
+            - name: MONGO_URI
+              valueFrom:
+                configMapKeyRef:
+                  name: tweet-service-config
+                  key: mongo-uri
+            - name: KAFKA_BOOTSTRAP_SERVERS
+              value: kafka:9092

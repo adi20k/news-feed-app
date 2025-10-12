@@ -1,0 +1,19 @@
+package com.news.feed.ak.config;
+@Configuration
+public class SecurityConfig {
+	 @Bean
+	    public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
+	        http
+	            .authorizeHttpRequests(auth -> auth
+	                .requestMatchers(
+	                    "/v3/api-docs/**", 
+	                    "/swagger-ui/**", 
+	                    "/swagger-ui.html"
+	                ).permitAll() // allow Swagger without auth
+	                .anyRequest().authenticated()
+	            )
+	            .httpBasic(); // or formLogin() if using login form
+
+	        return http.build();
+	    }
+}

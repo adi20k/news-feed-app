@@ -1,0 +1,10 @@
+package com.news.feed.ak.service;
+
+@Service
+@RequiredArgsConstructor
+public class UserService {
+	private final UserRepository userRepository;
+	private final KafkaTemplate<String, String> kafkaTemplate;
+	private final BCryptPasswordEncoder passwordEncoder = new BCryptPasswordEncoder();
+
+}

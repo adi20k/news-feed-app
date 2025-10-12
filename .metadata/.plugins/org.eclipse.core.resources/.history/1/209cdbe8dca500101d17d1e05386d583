@@ -1,0 +1,28 @@
+package com.news.feed.ak.controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import lombok.RequiredArgsConstructor;
+
+@RestController
+@RequestMapping("/api/user")
+@RequiredArgsConstructor
+public class UserController {
+	private final UserService userService;
+
+	@PostMapping("/registerUser")
+	public User register(@RequestBody RegisterUserRequest request) {
+		return userService.registerUser(request);
+	}
+
+	@PostMapping("/follow")
+	public void follow(@RequestHeader("userId") String userId, @RequestBody FollowRequest request) {
+		userService.followUser(userId, request);
+	}
+
+	@PostMapping("/unfollow")
+	public void unfollow(@RequestHeader("userId") String userId, @RequestBody FollowRequest request) {
+		userService.unfollowUser(userId, request);
+	}
+}

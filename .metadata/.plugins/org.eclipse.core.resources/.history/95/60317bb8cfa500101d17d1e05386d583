@@ -1,0 +1,8 @@
+package com.news.feed.ak.repository;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public class UserRepository extends MongoRepository<User, String> {
+
+}

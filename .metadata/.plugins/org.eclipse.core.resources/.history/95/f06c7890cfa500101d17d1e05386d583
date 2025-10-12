@@ -1,0 +1,5 @@
+package com.news.feed.ak.repository;
+@Repository
+public class UserRepository extends MongoRepository<User, String> {
+
+}

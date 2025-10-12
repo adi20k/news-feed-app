@@ -1,0 +1,34 @@
+package com.news.feed.ak.service;
+
+@Service
+@RequiredArgsConstructor
+public class UserService {
+	private final UserRepository userRepository;
+	private final KafkaTemplate<String, String> kafkaTemplate;
+	private final BCryptPasswordEncoder passwordEncoder = new BCryptPasswordEncoder();
+
+	public User registerUser(RegisterUserRequest request) {
+		User user = User.builder().username(request.getUsername()).email(request.getEmail())
+				.password(passwordEncoder.encode(request.getPassword())).build();
+		return userRepository.save(user);
+	}
+
+	public void followUser(String userId, FollowRequest request) {
+		User user = userRepository.findById(userId).orElseThrow();
+		User target = userRepository.findById(request.getTargetUserId()).orElseThrow();
+		user.getFollowing().add(target.getId());
+		target.getFollowers().add(user.getId());
+		userRepository.save(user);
+		userRepository.save(target);
+		kafkaTemplate.send("user-follow-events", user.getUsername() + " followed " + target.getUsername());
+	}
+
+public void unfollowUser(String userId, FollowRequest request) {
+User user = userRepository.findById(userId).orElseThrow();
+User target = userRepository.findById(request.getTargetUserId()).orElseThrow();
+user.getFollowing().remove(target.getId());
+target.getFollowers().remove(user.getId());
+userRepository.save(user);
+userRepository.save(target)kafkaTemplate.send("user-follow-events", user.getUsername() + " unfollowed " + target.getUsername());
+}
+}

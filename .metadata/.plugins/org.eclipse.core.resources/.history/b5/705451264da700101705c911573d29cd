@@ -1,0 +1,8 @@
+package com.news.feed.ak.config;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class KafkaProducerConfig {
+
+}

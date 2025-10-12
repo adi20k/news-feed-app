@@ -1,0 +1,6 @@
+package com.news.feed.ak.service;
+@Service
+@RequiredArgsConstructor
+public class TweetService {
+
+}
