@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: engagement-service
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: engagement-service
+  template:
+    metadata:
+      labels:
+        app: engagement-service
+    spec:
+      containers:
+        - name: engagement-service
+          image: your-registry/engagement-service:latest
+          ports:
+            - containerPort: 8083
+          env:
+            - name: DB_HOST
+              value: postgres
+            - name: DB_USER
+              value: postgres
+            - name: DB_PASS
+              valueFrom:
+                secretKeyRef:
+                  name: db-creds
+                  key: password
+            - name: KAFKA_BOOTSTRAP_SERVERS
+              value: kafka:9092

@@ -2796,3 +2796,790 @@ Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was
 2025-10-12 16:21:34,803 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
 2025-10-12 16:21:34,817 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-10-12 16:21:34,821 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\tweet-service\src\test\resources
+2025-10-16 18:23:06,159 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-10-16 18:23:53,646 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 18:23:53,759 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 18:23:53,767 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\tweet-service\src\test\resources
+2025-10-16 18:57:06,516 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.news.feed.ak:media-service:0.0.1-SNAPSHOT @ D:\Spring\News-Feed-App\media-service\pom.xml.
+2025-10-16 18:57:09,103 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /media-service/src/main/java
+2025-10-16 18:57:09,105 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /media-service/src/main/resources
+2025-10-16 18:57:09,120 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /media-service/src/main/resources
+2025-10-16 18:57:09,124 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /media-service/src/test/java
+2025-10-16 18:57:09,125 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /media-service/src/test/resources
+2025-10-16 18:57:11,751 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 12 sec
+2025-10-16 18:57:11,756 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-10-16 18:57:12,386 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.news.feed.ak:media-service:0.0.1-SNAPSHOT @ D:\Spring\News-Feed-App\media-service\pom.xml.
+2025-10-16 18:57:14,292 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /media-service/src/main/java
+2025-10-16 18:57:14,293 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /media-service/src/main/resources
+2025-10-16 18:57:14,294 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /media-service/src/main/resources
+2025-10-16 18:57:14,296 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /media-service/src/test/java
+2025-10-16 18:57:14,297 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /media-service/src/test/resources
+2025-10-16 18:57:15,512 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2025-10-16 18:57:17,778 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 18:57:17,800 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 18:57:17,809 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 18:57:43,596 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.news.feed.ak:media-service:0.0.1-SNAPSHOT @ D:\Spring\News-Feed-App\media-service\pom.xml.
+2025-10-16 18:57:56,835 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.news.feed.ak:media-service:0.0.1-SNAPSHOT @ D:\Spring\News-Feed-App\media-service\pom.xml.
+2025-10-16 18:58:03,655 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.news.feed.ak:media-service:0.0.1-SNAPSHOT @ D:\Spring\News-Feed-App\media-service\pom.xml.
+2025-10-16 19:07:28,761 [Worker-11: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </dependencies> must match start tag name <dependencyManagement> from line 87 (position: TEXT seen ...</dependencies>\n        \n    </dependencies>... @105:20) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </dependencies> must match start tag name <dependencyManagement> from line 87 (position: TEXT seen ...</dependencies>\n        \n    </dependencies>... @105:20) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2151)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1418)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1375)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1360)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseDependencyManagement(MavenXpp3Reader.java:1510)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2312)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2025-10-16 19:07:29,968 [Worker-12: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </dependencies> must match start tag name <dependencyManagement> from line 87 (position: TEXT seen ...</dependencies>\n        \n    </dependencies>... @105:20) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </dependencies> must match start tag name <dependencyManagement> from line 87 (position: TEXT seen ...</dependencies>\n        \n    </dependencies>... @105:20) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2151)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1418)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1375)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1360)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseDependencyManagement(MavenXpp3Reader.java:1510)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2312)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2025-10-16 19:07:30,691 [Worker-20: reload maven project] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM D:\Spring\News-Feed-App\media-service\pom.xml: end tag name </dependencies> must match start tag name <dependencyManagement> from line 87 (position: TEXT seen ...</dependencies>\n\n\t\t</dependencies>... @105:18)  @ line 105, column 18
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM D:\Spring\News-Feed-App\media-service\pom.xml: end tag name </dependencies> must match start tag name <dependencyManagement> from line 87 (position: TEXT seen ...</dependencies>\n\n\t\t</dependencies>... @105:18)  @ line 105, column 18
+
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readMavenProjects(IMavenToolbox.java:140)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:943)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:939)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:219)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:105)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:239)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:709)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$4.run(MavenPomEditor.java:1029)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-10-16 19:07:31,109 [Worker-20: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </dependencies> must match start tag name <dependencyManagement> from line 87 (position: TEXT seen ...</dependencies>\n\n\t\t</dependencies>... @105:18) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </dependencies> must match start tag name <dependencyManagement> from line 87 (position: TEXT seen ...</dependencies>\n\n\t\t</dependencies>... @105:18) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2151)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1418)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1375)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1360)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseDependencyManagement(MavenXpp3Reader.java:1510)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2312)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2025-10-16 19:07:37,602 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/bom/2.25.58/bom-2.25.58.pom
+2025-10-16 19:07:37,624 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/bom/2.25.58/bom-2.25.58.pom
+2025-10-16 19:07:37,700 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.25.58/aws-sdk-java-pom-2.25.58.pom
+2025-10-16 19:07:37,713 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.25.58/aws-sdk-java-pom-2.25.58.pom
+2025-10-16 19:07:38,502 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.news.feed.ak:media-service:0.0.1-SNAPSHOT @ D:\Spring\News-Feed-App\media-service\pom.xml.
+2025-10-16 19:07:39,530 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/s3/2.25.58/s3-2.25.58.pom
+2025-10-16 19:07:39,538 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/s3/2.25.58/s3-2.25.58.pom
+2025-10-16 19:07:39,617 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/services/2.25.58/services-2.25.58.pom
+2025-10-16 19:07:39,624 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/services/2.25.58/services-2.25.58.pom
+2025-10-16 19:07:39,693 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/bom-internal/2.25.58/bom-internal-2.25.58.pom
+2025-10-16 19:07:39,701 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/bom-internal/2.25.58/bom-internal-2.25.58.pom
+2025-10-16 19:07:39,768 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-xml-protocol/2.25.58/aws-xml-protocol-2.25.58.pom
+2025-10-16 19:07:39,774 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-xml-protocol/2.25.58/aws-xml-protocol-2.25.58.pom
+2025-10-16 19:07:39,840 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/protocols/2.25.58/protocols-2.25.58.pom
+2025-10-16 19:07:39,846 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/protocols/2.25.58/protocols-2.25.58.pom
+2025-10-16 19:07:39,905 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/core/2.25.58/core-2.25.58.pom
+2025-10-16 19:07:39,913 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/core/2.25.58/core-2.25.58.pom
+2025-10-16 19:07:39,975 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-query-protocol/2.25.58/aws-query-protocol-2.25.58.pom
+2025-10-16 19:07:39,981 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-query-protocol/2.25.58/aws-query-protocol-2.25.58.pom
+2025-10-16 19:07:40,052 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/protocol-core/2.25.58/protocol-core-2.25.58.pom
+2025-10-16 19:07:40,121 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/protocol-core/2.25.58/protocol-core-2.25.58.pom
+2025-10-16 19:07:40,196 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/sdk-core/2.25.58/sdk-core-2.25.58.pom
+2025-10-16 19:07:40,202 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/sdk-core/2.25.58/sdk-core-2.25.58.pom
+2025-10-16 19:07:40,284 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/annotations/2.25.58/annotations-2.25.58.pom
+2025-10-16 19:07:40,290 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/annotations/2.25.58/annotations-2.25.58.pom
+2025-10-16 19:07:40,366 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-client-spi/2.25.58/http-client-spi-2.25.58.pom
+2025-10-16 19:07:40,373 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-client-spi/2.25.58/http-client-spi-2.25.58.pom
+2025-10-16 19:07:40,446 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/utils/2.25.58/utils-2.25.58.pom
+2025-10-16 19:07:40,452 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/utils/2.25.58/utils-2.25.58.pom
+2025-10-16 19:07:40,515 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/metrics-spi/2.25.58/metrics-spi-2.25.58.pom
+2025-10-16 19:07:40,524 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/metrics-spi/2.25.58/metrics-spi-2.25.58.pom
+2025-10-16 19:07:40,706 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/endpoints-spi/2.25.58/endpoints-spi-2.25.58.pom
+2025-10-16 19:07:40,714 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/endpoints-spi/2.25.58/endpoints-spi-2.25.58.pom
+2025-10-16 19:07:40,792 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-auth-spi/2.25.58/http-auth-spi-2.25.58.pom
+2025-10-16 19:07:40,799 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-auth-spi/2.25.58/http-auth-spi-2.25.58.pom
+2025-10-16 19:07:40,868 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/identity-spi/2.25.58/identity-spi-2.25.58.pom
+2025-10-16 19:07:40,874 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/identity-spi/2.25.58/identity-spi-2.25.58.pom
+2025-10-16 19:07:40,942 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-auth-aws/2.25.58/http-auth-aws-2.25.58.pom
+2025-10-16 19:07:40,948 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-auth-aws/2.25.58/http-auth-aws-2.25.58.pom
+2025-10-16 19:07:41,015 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/checksums-spi/2.25.58/checksums-spi-2.25.58.pom
+2025-10-16 19:07:41,074 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/checksums-spi/2.25.58/checksums-spi-2.25.58.pom
+2025-10-16 19:07:41,152 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/checksums/2.25.58/checksums-2.25.58.pom
+2025-10-16 19:07:41,158 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/checksums/2.25.58/checksums-2.25.58.pom
+2025-10-16 19:07:41,240 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/profiles/2.25.58/profiles-2.25.58.pom
+2025-10-16 19:07:41,245 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/profiles/2.25.58/profiles-2.25.58.pom
+2025-10-16 19:07:41,309 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-core/2.25.58/aws-core-2.25.58.pom
+2025-10-16 19:07:41,316 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-core/2.25.58/aws-core-2.25.58.pom
+2025-10-16 19:07:41,392 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/regions/2.25.58/regions-2.25.58.pom
+2025-10-16 19:07:41,400 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/regions/2.25.58/regions-2.25.58.pom
+2025-10-16 19:07:41,466 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/json-utils/2.25.58/json-utils-2.25.58.pom
+2025-10-16 19:07:41,472 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/json-utils/2.25.58/json-utils-2.25.58.pom
+2025-10-16 19:07:41,534 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/third-party-jackson-core/2.25.58/third-party-jackson-core-2.25.58.pom
+2025-10-16 19:07:41,540 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/third-party-jackson-core/2.25.58/third-party-jackson-core-2.25.58.pom
+2025-10-16 19:07:41,601 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/third-party/2.25.58/third-party-2.25.58.pom
+2025-10-16 19:07:41,608 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/third-party/2.25.58/third-party-2.25.58.pom
+2025-10-16 19:07:41,676 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/auth/2.25.58/auth-2.25.58.pom
+2025-10-16 19:07:41,682 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/auth/2.25.58/auth-2.25.58.pom
+2025-10-16 19:07:41,754 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-auth/2.25.58/http-auth-2.25.58.pom
+2025-10-16 19:07:41,760 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-auth/2.25.58/http-auth-2.25.58.pom
+2025-10-16 19:07:41,872 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/arns/2.25.58/arns-2.25.58.pom
+2025-10-16 19:07:41,879 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/arns/2.25.58/arns-2.25.58.pom
+2025-10-16 19:07:41,939 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/crt-core/2.25.58/crt-core-2.25.58.pom
+2025-10-16 19:07:41,945 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/crt-core/2.25.58/crt-core-2.25.58.pom
+2025-10-16 19:07:42,017 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/apache-client/2.25.58/apache-client-2.25.58.pom
+2025-10-16 19:07:42,023 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/apache-client/2.25.58/apache-client-2.25.58.pom
+2025-10-16 19:07:42,099 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-clients/2.25.58/http-clients-2.25.58.pom
+2025-10-16 19:07:42,105 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-clients/2.25.58/http-clients-2.25.58.pom
+2025-10-16 19:07:42,246 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/netty-nio-client/2.25.58/netty-nio-client-2.25.58.pom
+2025-10-16 19:07:42,253 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/netty-nio-client/2.25.58/netty-nio-client-2.25.58.pom
+2025-10-16 19:07:42,326 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.127.Final/netty-codec-http-4.1.127.Final.pom
+2025-10-16 19:07:42,333 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.127.Final/netty-codec-http-4.1.127.Final.pom
+2025-10-16 19:07:42,404 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.127.Final/netty-codec-http2-4.1.127.Final.pom
+2025-10-16 19:07:42,409 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.127.Final/netty-codec-http2-4.1.127.Final.pom
+2025-10-16 19:07:43,015 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/s3/2.25.58/s3-2.25.58.jar
+2025-10-16 19:07:43,368 [Worker-12: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/s3/2.25.58/s3-2.25.58.jar
+2025-10-16 19:07:43,448 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-xml-protocol/2.25.58/aws-xml-protocol-2.25.58.jar
+2025-10-16 19:07:43,468 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-xml-protocol/2.25.58/aws-xml-protocol-2.25.58.jar
+2025-10-16 19:07:43,520 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/crt-core/2.25.58/crt-core-2.25.58.jar
+2025-10-16 19:07:43,526 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/crt-core/2.25.58/crt-core-2.25.58.jar
+2025-10-16 19:07:43,551 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/protocol-core/2.25.58/protocol-core-2.25.58.jar
+2025-10-16 19:07:43,559 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/protocol-core/2.25.58/protocol-core-2.25.58.jar
+2025-10-16 19:07:43,561 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-query-protocol/2.25.58/aws-query-protocol-2.25.58.jar
+2025-10-16 19:07:43,574 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-query-protocol/2.25.58/aws-query-protocol-2.25.58.jar
+2025-10-16 19:07:43,580 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-auth/2.25.58/http-auth-2.25.58.jar
+2025-10-16 19:07:43,589 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-auth/2.25.58/http-auth-2.25.58.jar
+2025-10-16 19:07:44,021 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/arns/2.25.58/arns-2.25.58.jar
+2025-10-16 19:07:44,021 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-auth-spi/2.25.58/http-auth-spi-2.25.58.jar
+2025-10-16 19:07:44,021 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/identity-spi/2.25.58/identity-spi-2.25.58.jar
+2025-10-16 19:07:44,022 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/profiles/2.25.58/profiles-2.25.58.jar
+2025-10-16 19:07:44,021 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-auth-aws/2.25.58/http-auth-aws-2.25.58.jar
+2025-10-16 19:07:44,030 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/identity-spi/2.25.58/identity-spi-2.25.58.jar
+2025-10-16 19:07:44,032 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/profiles/2.25.58/profiles-2.25.58.jar
+2025-10-16 19:07:44,034 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-auth-spi/2.25.58/http-auth-spi-2.25.58.jar
+2025-10-16 19:07:44,038 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/arns/2.25.58/arns-2.25.58.jar
+2025-10-16 19:07:44,041 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-auth-aws/2.25.58/http-auth-aws-2.25.58.jar
+2025-10-16 19:07:44,105 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-client-spi/2.25.58/http-client-spi-2.25.58.jar
+2025-10-16 19:07:44,111 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/auth/2.25.58/auth-2.25.58.jar
+2025-10-16 19:07:44,115 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-client-spi/2.25.58/http-client-spi-2.25.58.jar
+2025-10-16 19:07:44,117 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/sdk-core/2.25.58/sdk-core-2.25.58.jar
+2025-10-16 19:07:44,118 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/checksums-spi/2.25.58/checksums-spi-2.25.58.jar
+2025-10-16 19:07:44,123 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/checksums-spi/2.25.58/checksums-spi-2.25.58.jar
+2025-10-16 19:07:44,130 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/checksums/2.25.58/checksums-2.25.58.jar
+2025-10-16 19:07:44,130 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/auth/2.25.58/auth-2.25.58.jar
+2025-10-16 19:07:44,134 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/checksums/2.25.58/checksums-2.25.58.jar
+2025-10-16 19:07:44,170 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/regions/2.25.58/regions-2.25.58.jar
+2025-10-16 19:07:44,193 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/annotations/2.25.58/annotations-2.25.58.jar
+2025-10-16 19:07:44,198 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/utils/2.25.58/utils-2.25.58.jar
+2025-10-16 19:07:44,198 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/annotations/2.25.58/annotations-2.25.58.jar
+2025-10-16 19:07:44,199 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-core/2.25.58/aws-core-2.25.58.jar
+2025-10-16 19:07:44,255 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/utils/2.25.58/utils-2.25.58.jar
+2025-10-16 19:07:44,259 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-core/2.25.58/aws-core-2.25.58.jar
+2025-10-16 19:07:44,262 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/metrics-spi/2.25.58/metrics-spi-2.25.58.jar
+2025-10-16 19:07:44,267 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/metrics-spi/2.25.58/metrics-spi-2.25.58.jar
+2025-10-16 19:07:44,288 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/sdk-core/2.25.58/sdk-core-2.25.58.jar
+2025-10-16 19:07:44,312 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/endpoints-spi/2.25.58/endpoints-spi-2.25.58.jar
+2025-10-16 19:07:44,314 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/regions/2.25.58/regions-2.25.58.jar
+2025-10-16 19:07:44,317 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/endpoints-spi/2.25.58/endpoints-spi-2.25.58.jar
+2025-10-16 19:07:44,342 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/json-utils/2.25.58/json-utils-2.25.58.jar
+2025-10-16 19:07:44,347 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/third-party-jackson-core/2.25.58/third-party-jackson-core-2.25.58.jar
+2025-10-16 19:07:44,349 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/json-utils/2.25.58/json-utils-2.25.58.jar
+2025-10-16 19:07:44,365 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/apache-client/2.25.58/apache-client-2.25.58.jar
+2025-10-16 19:07:44,373 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/apache-client/2.25.58/apache-client-2.25.58.jar
+2025-10-16 19:07:44,380 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/netty-nio-client/2.25.58/netty-nio-client-2.25.58.jar
+2025-10-16 19:07:44,390 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.127.Final/netty-codec-http-4.1.127.Final.jar
+2025-10-16 19:07:44,402 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/netty-nio-client/2.25.58/netty-nio-client-2.25.58.jar
+2025-10-16 19:07:44,422 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.127.Final/netty-codec-http-4.1.127.Final.jar
+2025-10-16 19:07:44,444 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/third-party-jackson-core/2.25.58/third-party-jackson-core-2.25.58.jar
+2025-10-16 19:07:44,451 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.127.Final/netty-codec-http2-4.1.127.Final.jar
+2025-10-16 19:07:44,659 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.127.Final/netty-codec-http2-4.1.127.Final.jar
+2025-10-16 19:07:46,011 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:07:46,012 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:07:46,018 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:07:47,445 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/s3/2.25.58/s3-2.25.58-sources.jar
+2025-10-16 19:07:48,656 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 19:07:48,689 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:07:48,697 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:07:48,759 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/s3/2.25.58/s3-2.25.58-sources.jar
+2025-10-16 19:07:48,767 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:s3:2.25.58
+2025-10-16 19:07:49,556 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-xml-protocol/2.25.58/aws-xml-protocol-2.25.58-sources.jar
+2025-10-16 19:07:49,816 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-xml-protocol/2.25.58/aws-xml-protocol-2.25.58-sources.jar
+2025-10-16 19:07:49,822 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:aws-xml-protocol:2.25.58
+2025-10-16 19:07:49,999 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:07:50,005 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:07:50,012 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\tweet-service\src\test\resources
+2025-10-16 19:07:50,522 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-query-protocol/2.25.58/aws-query-protocol-2.25.58-sources.jar
+2025-10-16 19:07:50,897 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-query-protocol/2.25.58/aws-query-protocol-2.25.58-sources.jar
+2025-10-16 19:07:50,906 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:aws-query-protocol:2.25.58
+2025-10-16 19:07:51,070 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/protocol-core/2.25.58/protocol-core-2.25.58-sources.jar
+2025-10-16 19:07:51,077 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/protocol-core/2.25.58/protocol-core-2.25.58-sources.jar
+2025-10-16 19:07:51,083 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:protocol-core:2.25.58
+2025-10-16 19:07:51,143 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:07:51,172 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:07:51,186 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\user-service\src\test\resources
+2025-10-16 19:07:51,750 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/arns/2.25.58/arns-2.25.58-sources.jar
+2025-10-16 19:07:51,756 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/arns/2.25.58/arns-2.25.58-sources.jar
+2025-10-16 19:07:51,761 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:arns:2.25.58
+2025-10-16 19:07:52,434 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/profiles/2.25.58/profiles-2.25.58-sources.jar
+2025-10-16 19:07:52,627 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/profiles/2.25.58/profiles-2.25.58-sources.jar
+2025-10-16 19:07:52,632 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:profiles:2.25.58
+2025-10-16 19:07:53,497 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/crt-core/2.25.58/crt-core-2.25.58-sources.jar
+2025-10-16 19:07:53,505 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/crt-core/2.25.58/crt-core-2.25.58-sources.jar
+2025-10-16 19:07:53,510 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:crt-core:2.25.58
+2025-10-16 19:07:54,188 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-auth/2.25.58/http-auth-2.25.58-sources.jar
+2025-10-16 19:07:54,362 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-auth/2.25.58/http-auth-2.25.58-sources.jar
+2025-10-16 19:07:54,366 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:http-auth:2.25.58
+2025-10-16 19:07:54,551 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/identity-spi/2.25.58/identity-spi-2.25.58-sources.jar
+2025-10-16 19:07:54,556 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/identity-spi/2.25.58/identity-spi-2.25.58-sources.jar
+2025-10-16 19:07:54,559 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:identity-spi:2.25.58
+2025-10-16 19:07:54,730 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-auth-spi/2.25.58/http-auth-spi-2.25.58-sources.jar
+2025-10-16 19:07:54,735 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-auth-spi/2.25.58/http-auth-spi-2.25.58-sources.jar
+2025-10-16 19:07:54,739 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:http-auth-spi:2.25.58
+2025-10-16 19:07:54,906 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-auth-aws/2.25.58/http-auth-aws-2.25.58-sources.jar
+2025-10-16 19:07:54,956 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-auth-aws/2.25.58/http-auth-aws-2.25.58-sources.jar
+2025-10-16 19:07:54,960 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:http-auth-aws:2.25.58
+2025-10-16 19:07:55,583 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/checksums/2.25.58/checksums-2.25.58-sources.jar
+2025-10-16 19:07:55,592 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/checksums/2.25.58/checksums-2.25.58-sources.jar
+2025-10-16 19:07:55,597 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:checksums:2.25.58
+2025-10-16 19:07:55,755 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/checksums-spi/2.25.58/checksums-spi-2.25.58-sources.jar
+2025-10-16 19:07:55,763 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/checksums-spi/2.25.58/checksums-spi-2.25.58-sources.jar
+2025-10-16 19:07:55,766 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:checksums-spi:2.25.58
+2025-10-16 19:07:55,937 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/sdk-core/2.25.58/sdk-core-2.25.58-sources.jar
+2025-10-16 19:07:56,096 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/sdk-core/2.25.58/sdk-core-2.25.58-sources.jar
+2025-10-16 19:07:56,099 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:sdk-core:2.25.58
+2025-10-16 19:07:56,268 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/auth/2.25.58/auth-2.25.58-sources.jar
+2025-10-16 19:07:56,316 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/auth/2.25.58/auth-2.25.58-sources.jar
+2025-10-16 19:07:56,320 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:auth:2.25.58
+2025-10-16 19:07:56,476 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-client-spi/2.25.58/http-client-spi-2.25.58-sources.jar
+2025-10-16 19:07:56,485 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/http-client-spi/2.25.58/http-client-spi-2.25.58-sources.jar
+2025-10-16 19:07:56,490 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:http-client-spi:2.25.58
+2025-10-16 19:07:56,658 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/regions/2.25.58/regions-2.25.58-sources.jar
+2025-10-16 19:07:56,800 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/regions/2.25.58/regions-2.25.58-sources.jar
+2025-10-16 19:07:56,804 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:regions:2.25.58
+2025-10-16 19:07:57,018 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/annotations/2.25.58/annotations-2.25.58-sources.jar
+2025-10-16 19:07:57,025 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/annotations/2.25.58/annotations-2.25.58-sources.jar
+2025-10-16 19:07:57,028 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:annotations:2.25.58
+2025-10-16 19:07:57,189 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/utils/2.25.58/utils-2.25.58-sources.jar
+2025-10-16 19:07:57,243 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/utils/2.25.58/utils-2.25.58-sources.jar
+2025-10-16 19:07:57,247 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:utils:2.25.58
+2025-10-16 19:07:57,416 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-core/2.25.58/aws-core-2.25.58-sources.jar
+2025-10-16 19:07:57,431 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-core/2.25.58/aws-core-2.25.58-sources.jar
+2025-10-16 19:07:57,436 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:aws-core:2.25.58
+2025-10-16 19:07:58,123 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/metrics-spi/2.25.58/metrics-spi-2.25.58-sources.jar
+2025-10-16 19:07:58,321 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/metrics-spi/2.25.58/metrics-spi-2.25.58-sources.jar
+2025-10-16 19:07:58,325 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:metrics-spi:2.25.58
+2025-10-16 19:07:58,491 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/json-utils/2.25.58/json-utils-2.25.58-sources.jar
+2025-10-16 19:07:58,505 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/json-utils/2.25.58/json-utils-2.25.58-sources.jar
+2025-10-16 19:07:58,509 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:json-utils:2.25.58
+2025-10-16 19:07:58,673 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/third-party-jackson-core/2.25.58/third-party-jackson-core-2.25.58-sources.jar
+2025-10-16 19:07:58,682 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/third-party-jackson-core/2.25.58/third-party-jackson-core-2.25.58-sources.jar
+2025-10-16 19:07:58,689 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:third-party-jackson-core:2.25.58
+2025-10-16 19:07:58,919 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/endpoints-spi/2.25.58/endpoints-spi-2.25.58-sources.jar
+2025-10-16 19:07:58,923 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/endpoints-spi/2.25.58/endpoints-spi-2.25.58-sources.jar
+2025-10-16 19:07:58,926 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:endpoints-spi:2.25.58
+2025-10-16 19:07:59,556 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/apache-client/2.25.58/apache-client-2.25.58-sources.jar
+2025-10-16 19:07:59,939 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/apache-client/2.25.58/apache-client-2.25.58-sources.jar
+2025-10-16 19:07:59,943 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:apache-client:2.25.58
+2025-10-16 19:08:00,103 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/software/amazon/awssdk/netty-nio-client/2.25.58/netty-nio-client-2.25.58-sources.jar
+2025-10-16 19:08:00,163 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/software/amazon/awssdk/netty-nio-client/2.25.58/netty-nio-client-2.25.58-sources.jar
+2025-10-16 19:08:00,167 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for software.amazon.awssdk:netty-nio-client:2.25.58
+2025-10-16 19:08:00,317 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.127.Final/netty-codec-http-4.1.127.Final-sources.jar
+2025-10-16 19:08:00,456 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.127.Final/netty-codec-http-4.1.127.Final-sources.jar
+2025-10-16 19:08:00,459 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http:4.1.127.Final
+2025-10-16 19:08:00,601 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.127.Final/netty-codec-http2-4.1.127.Final-sources.jar
+2025-10-16 19:08:00,696 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.127.Final/netty-codec-http2-4.1.127.Final-sources.jar
+2025-10-16 19:08:00,700 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http2:4.1.127.Final
+2025-10-16 19:26:01,998 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.news.feed.ak:media-service:0.0.1-SNAPSHOT @ D:\Spring\News-Feed-App\media-service\pom.xml.
+2025-10-16 19:26:03,611 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:26:03,612 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:26:03,617 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:27:41,183 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 19:27:41,211 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:27:41,215 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:27:59,766 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:27:59,767 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:27:59,771 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:28:08,668 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:28:08,669 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:28:08,672 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:28:37,258 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.news.feed.ak:media-service:0.0.1-SNAPSHOT @ D:\Spring\News-Feed-App\media-service\pom.xml.
+2025-10-16 19:28:38,901 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:28:38,902 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:28:38,908 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:28:41,739 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:28:41,764 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:28:41,768 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:28:42,283 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:28:42,286 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:28:42,290 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\tweet-service\src\test\resources
+2025-10-16 19:28:42,824 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:28:42,837 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:28:42,841 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\user-service\src\test\resources
+2025-10-16 19:29:11,133 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:29:11,133 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:29:11,135 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:29:13,665 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:29:13,666 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:29:13,668 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:29:17,340 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:29:17,341 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:29:17,344 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:29:35,933 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:29:35,935 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:29:35,947 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:31:12,953 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 19:31:12,960 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:31:12,963 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:31:42,580 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 19:31:42,584 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:31:42,588 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:31:51,160 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 19:31:51,163 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:31:51,166 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:32:50,043 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 19:32:50,153 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:32:50,161 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:33:05,019 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 19:33:05,025 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:33:05,029 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:33:22,850 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 19:33:22,857 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:33:22,860 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:33:52,145 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 19:33:52,152 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:33:52,156 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:34:18,389 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:34:18,413 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:34:18,419 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:34:40,648 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:34:40,655 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:34:40,658 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:34:59,291 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:34:59,299 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:34:59,306 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:35:11,501 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:35:11,509 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:35:11,512 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:35:33,834 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:35:33,845 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:35:33,848 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:35:44,386 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:35:44,397 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:35:44,400 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:35:54,371 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:35:54,386 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:35:54,410 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:36:27,505 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:36:27,517 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:36:27,520 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:37:22,466 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:37:22,474 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:37:22,478 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:37:37,609 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:37:37,618 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:37:37,621 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:38:03,704 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:38:03,711 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:38:03,780 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:38:18,035 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:38:18,043 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:38:18,047 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:38:51,843 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:38:51,857 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:38:51,861 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:38:55,689 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:38:55,701 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:38:55,727 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:39:11,149 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:39:11,167 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:39:11,170 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:39:22,194 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:39:22,257 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:39:22,261 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:39:31,739 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:39:31,753 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:39:31,756 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:39:57,834 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:39:57,836 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:39:57,839 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:39:58,182 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:39:58,185 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:39:58,189 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\tweet-service\src\test\resources
+2025-10-16 19:39:58,502 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:39:58,505 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:39:58,508 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\user-service\src\test\resources
+2025-10-16 19:50:40,975 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 19:50:40,990 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:50:40,994 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:58:53,665 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 19:58:53,671 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:58:53,674 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:58:59,455 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 19:58:59,461 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:58:59,464 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:59:19,471 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 19:59:19,477 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:59:19,481 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 19:59:28,947 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 19:59:28,955 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 19:59:28,959 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:00:37,408 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:00:37,410 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:00:37,414 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:00:37,722 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:00:37,724 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:00:37,726 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\tweet-service\src\test\resources
+2025-10-16 20:00:37,982 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:00:37,984 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:00:37,987 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\user-service\src\test\resources
+2025-10-16 20:17:53,265 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 20:17:53,307 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:17:53,311 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:20:37,789 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 20:20:37,836 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:20:37,839 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:21:56,424 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:21:56,453 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:21:56,457 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:22:16,042 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:22:16,063 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:22:16,068 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:22:22,432 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:22:22,474 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:22:22,478 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:22:29,557 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:22:29,641 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:22:29,645 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:22:36,047 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:22:36,116 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:22:36,120 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:22:41,499 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:22:41,523 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:22:41,530 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:23:36,692 [Worker-61: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.news.feed.ak:media-service:0.0.1-SNAPSHOT @ D:\Spring\News-Feed-App\media-service\pom.xml.
+2025-10-16 20:23:41,840 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:23:41,842 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:23:41,851 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:23:45,651 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:23:45,709 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:23:45,714 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:23:47,542 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:23:47,545 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:23:47,551 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:23:48,205 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:23:48,208 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:23:48,212 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\tweet-service\src\test\resources
+2025-10-16 20:23:48,755 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:23:48,759 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:23:48,763 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\user-service\src\test\resources
+2025-10-16 20:24:43,532 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:24:43,559 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:24:43,564 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:24:55,721 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:24:55,746 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:24:55,751 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:32:03,382 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 20:32:03,389 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:32:03,392 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:33:56,203 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:33:56,227 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:33:56,231 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:34:08,639 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:34:08,660 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:34:08,664 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:34:35,083 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:34:35,101 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:34:35,106 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:34:47,507 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:34:47,514 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:34:47,517 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:36:33,110 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:36:33,129 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:36:33,134 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:36:36,784 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:36:36,790 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:36:36,796 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:36:37,376 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:36:37,378 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:36:37,383 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\tweet-service\src\test\resources
+2025-10-16 20:36:37,897 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:36:37,902 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:36:37,907 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\user-service\src\test\resources
+2025-10-16 20:37:50,150 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 20:37:50,161 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:37:50,165 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:40:11,006 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:40:11,025 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:40:11,029 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:40:41,339 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:40:41,357 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:40:41,361 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:41:55,888 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409 [364])
+2025-10-16 20:41:55,891 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409
+2025-10-16 20:41:55,892 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\aopalliance-1.0.jar
+2025-10-16 20:41:55,892 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\guice-5.1.0.jar
+2025-10-16 20:41:55,892 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpclient-4.5.14.jar
+2025-10-16 20:41:55,892 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpcore-4.4.16.jar
+2025-10-16 20:41:55,892 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jansi-2.4.1.jar
+2025-10-16 20:41:55,892 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jcl-over-slf4j-1.7.36.jar
+2025-10-16 20:41:55,893 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-artifact-3.9.9.jar
+2025-10-16 20:41:55,893 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-builder-support-3.9.9.jar
+2025-10-16 20:41:55,893 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-compat-3.9.9.jar
+2025-10-16 20:41:55,893 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-core-3.9.9.jar
+2025-10-16 20:41:55,893 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-embedder-3.9.9.jar
+2025-10-16 20:41:55,893 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-3.9.9.jar
+2025-10-16 20:41:55,893 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-builder-3.9.9.jar
+2025-10-16 20:41:55,893 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-plugin-api-3.9.9.jar
+2025-10-16 20:41:55,893 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-repository-metadata-3.9.9.jar
+2025-10-16 20:41:55,893 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-api-1.9.22.jar
+2025-10-16 20:41:55,893 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-connector-basic-1.9.22.jar
+2025-10-16 20:41:55,894 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-impl-1.9.22.jar
+2025-10-16 20:41:55,894 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-named-locks-1.9.22.jar
+2025-10-16 20:41:55,894 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-provider-3.9.9.jar
+2025-10-16 20:41:55,894 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-spi-1.9.22.jar
+2025-10-16 20:41:55,894 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-file-1.9.22.jar
+2025-10-16 20:41:55,894 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-http-1.9.22.jar
+2025-10-16 20:41:55,894 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-wagon-1.9.22.jar
+2025-10-16 20:41:55,894 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-util-1.9.22.jar
+2025-10-16 20:41:55,894 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-3.9.9.jar
+2025-10-16 20:41:55,894 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-builder-3.9.9.jar
+2025-10-16 20:41:55,894 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-shared-utils-3.4.2.jar
+2025-10-16 20:41:55,894 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-10-16 20:41:55,895 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-10-16 20:41:55,895 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-0.0.7.jar
+2025-10-16 20:41:55,895 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-1.2.0.jar
+2025-10-16 20:41:55,896 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-cipher-2.0.jar
+2025-10-16 20:41:55,896 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-classworlds-2.8.0.jar
+2025-10-16 20:41:55,896 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-component-annotations-2.1.0.jar
+2025-10-16 20:41:55,896 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-interpolation-1.27.jar
+2025-10-16 20:41:55,896 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-sec-dispatcher-2.0.jar
+2025-10-16 20:41:55,896 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-utils-3.5.1.jar
+2025-10-16 20:41:55,896 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-xml-3.0.1.jar
+2025-10-16 20:41:55,896 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-file-3.5.3.jar
+2025-10-16 20:41:55,896 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-3.5.3.jar
+2025-10-16 20:41:55,896 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-shared-3.5.3.jar
+2025-10-16 20:41:55,896 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-provider-api-3.5.3.jar
+2025-10-16 20:41:55,898 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.1.jre [29])
+2025-10-16 20:41:55,898 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\com.google.guava_33.3.1.jre.jar
+2025-10-16 20:41:55,899 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [615])
+2025-10-16 20:41:55,899 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\slf4j.api_2.0.16.jar
+2025-10-16 20:41:55,899 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [45])
+2025-10-16 20:41:55,899 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2025-10-16 20:41:55,899 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [41])
+2025-10-16 20:41:55,900 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\jakarta.annotation-api_1.3.5.jar
+2025-10-16 20:41:55,900 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [78])
+2025-10-16 20:41:55,900 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.apache.commons.cli_1.9.0.jar
+2025-10-16 20:41:55,900 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2025-10-16 20:41:55,900 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-10-16 20:41:55,901 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [30])
+2025-10-16 20:41:55,901 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\sts-4.28.1.RELEASE\plugins\com.google.guava.failureaccess_1.0.2.jar
+2025-10-16 20:41:55,912 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\Spring\News-Feed-App\media-service":
+2025-10-16 20:41:55,915 [Worker-63: Launching Executing clean in D__Spring_News-Feed-App_media-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean
+2025-10-16 20:42:03,366 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:42:03,370 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:42:03,374 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:42:17,239 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-10-16 20:42:18,747 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.news.feed.ak:media-service:0.0.1-SNAPSHOT @ D:\Spring\News-Feed-App\media-service\pom.xml.
+2025-10-16 20:42:25,761 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /media-service/src/main/java
+2025-10-16 20:42:25,765 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /media-service/src/main/resources
+2025-10-16 20:42:25,766 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /media-service/src/main/resources
+2025-10-16 20:42:25,767 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /media-service/src/test/java
+2025-10-16 20:42:25,768 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /media-service/src/test/resources
+2025-10-16 20:42:28,098 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 8.00 sec, update config takes 2.00 sec 
+2025-10-16 20:42:29,553 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:42:29,714 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:42:29,750 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:43:12,103 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:43:12,116 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:43:12,121 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:43:53,147 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:43:53,159 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:43:53,163 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:44:03,702 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:44:03,719 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:44:03,722 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 20:56:19,616 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 20:56:19,671 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 20:56:19,674 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 21:01:05,273 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 21:01:05,293 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 21:01:05,297 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 21:01:17,360 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 21:01:17,366 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 21:01:17,370 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 21:01:26,943 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 21:01:26,959 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 21:01:26,963 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 21:01:56,908 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 21:01:56,926 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 21:01:56,929 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 21:02:06,685 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 21:02:06,702 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 21:02:06,707 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 21:02:35,763 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 21:02:35,771 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 21:02:35,776 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 22:38:35,033 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 22:38:35,064 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:38:35,071 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 22:38:45,952 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 22:38:45,993 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:38:46,013 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 22:38:55,084 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 22:38:55,110 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:38:55,118 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 22:39:03,890 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 22:39:03,899 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:39:03,903 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 22:40:06,721 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 22:40:06,737 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:40:06,743 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 22:40:42,151 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 22:40:42,160 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:40:42,165 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 22:40:58,212 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 22:40:58,230 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:40:58,234 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 22:41:14,833 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 22:41:14,921 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:41:14,945 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 22:41:31,335 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 22:41:31,348 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:41:31,360 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 22:41:46,355 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 22:41:46,363 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:41:46,367 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 22:41:54,957 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 22:41:54,969 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:41:54,975 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 22:41:59,102 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 22:41:59,109 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:41:59,112 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 22:42:05,344 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 22:42:05,358 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:42:05,363 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 22:42:06,153 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 22:42:06,172 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:42:06,178 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\tweet-service\src\test\resources
+2025-10-16 22:42:06,655 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 22:42:06,659 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:42:06,665 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\user-service\src\test\resources
+2025-10-16 22:42:12,574 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 22:42:12,577 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:42:12,580 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 22:42:12,835 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 22:42:12,837 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:42:12,840 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\tweet-service\src\test\resources
+2025-10-16 22:42:13,135 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-10-16 22:42:13,137 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:42:13,141 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\user-service\src\test\resources
+2025-10-16 22:45:33,836 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-16 22:45:33,844 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:45:33,849 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\media-service\src\test\resources
+2025-10-16 22:53:44,820 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:53:44,820 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-16 22:53:44,823 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring\News-Feed-App\tweet-service\src\test\resources
